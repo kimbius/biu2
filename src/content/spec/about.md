@@ -1,9 +1,9 @@
 # About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
 
-::github{repo="saicaca/fuwari"}
+Hello, My name is Peerawit Piwsawang. The topic of web exploitation interests me. "No theory, just practice" is my credo, which implies that while theory and practice are both significant, practice is paramount.
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+### Sound takes me flow
+![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=3pxv4i23jaqynrgp4mi8dqu01&cover_image=true&theme=default&bar_color=ff0000&bar_color_cover=true)
+
+## Thanks
+> Site crafted by [saicaca](https://github.com/saicaca) and hosted by Cloudflare Pages
