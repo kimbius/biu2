@@ -4,7 +4,7 @@ published: 2024-09-15
 description: 'เฉลยโจทย์หมวดหมู่ Pwn-Rev ข้อ Reverse w/ Code'
 image: 'cover.png'
 tags: ['NCSA CTF Bootcamp', 'Reverse Engineering']
-category: 'NCSA CTF Bootcamp #2'
+category: 'NCSA CTF Bootcamp'
 draft: false 
 language: 'th'
 ---
