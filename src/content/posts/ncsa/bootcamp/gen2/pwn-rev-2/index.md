@@ -1,7 +1,7 @@
 ---
 title: 'Reverse w/o Code (NCSA CTF Bootcamp #2)'
 published: 2024-09-15
-description: 'เฉลยโจทย์หมวดหมู่ Pwn-Rev ข้อ Reverse w/ Code'
+description: 'เฉลยโจทย์หมวดหมู่ Pwn-Rev ข้อ Reverse w/o Code'
 image: 'cover.png'
 tags: ['NCSA CTF Bootcamp', 'Reverse Engineering']
 category: 'NCSA CTF Bootcamp'
