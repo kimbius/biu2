@@ -2,8 +2,8 @@
 title: Cybersplash 2024 [web/Simple]
 published: 2024-04-18
 image: "./cover.webp"
-tags: ["Capture The Flag", "CTF Writeup", "Secplayground", "Cybersplash 2024"]
-category: Cybersplash 2024
+tags: ["Secplayground", "Cybersplash 2024", "Web Security"]
+category: CTF-Writeup
 draft: false
 ---
 

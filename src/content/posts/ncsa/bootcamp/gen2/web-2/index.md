@@ -4,7 +4,7 @@ published: 2024-09-19
 description: 'เฉลยโจทย์หมวดหมู่ Web ข้อ Partial Flag Check Service'
 image: 'cover.png'
 tags: ['NCSA CTF Bootcamp', 'Web Security']
-category: 'NCSA CTF Bootcamp'
+category: 'CTF-Writeup'
 draft: false 
 language: 'th'
 ---

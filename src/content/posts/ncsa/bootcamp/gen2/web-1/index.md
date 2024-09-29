@@ -4,7 +4,7 @@ published: 2024-09-19
 description: 'เฉลยโจทย์หมวดหมู่ Web ข้อ Decoding the Storm'
 image: 'cover.png'
 tags: ['NCSA CTF Bootcamp', 'Web Security']
-category: 'NCSA CTF Bootcamp'
+category: 'CTF-Writeup'
 draft: false 
 language: 'th'
 ---
