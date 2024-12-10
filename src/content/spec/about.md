@@ -1,6 +1,6 @@
 # About
 
-Hello, My name is Peerawit Piwsawang. The topic of web exploitation interests me. "No theory, just practice" is my credo, which implies that while theory and practice are both significant, practice is paramount.
+Hi, I am Peerawit Piwsawang. I like web hacking. I learn best by doing. Practice is more important to me than theory.
 
 ### Sound takes me flow
 ![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=3pxv4i23jaqynrgp4mi8dqu01&cover_image=true&theme=default&bar_color=ff0000&bar_color_cover=true)
